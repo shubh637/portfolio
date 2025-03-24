@@ -11,10 +11,7 @@ This repository contains my portfolio website built using **Bootstrap**. It show
 
    
 ## 📷 Preview  
-<div style="background-color: #f5f5dc; padding: 15px; border-radius: 10px; text-align: center;">
-  <a href="https://shubh637.github.io/portfolio/" target="_blank" style="color: white; font-size: 20px; font-weight: bold; text-decoration: none;">
-    🔗 Visit My Portfolio
-  </a>
-</div>
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-orange?style=for-the-badge)](https://shubh637.github.io/portfolio/)
+
 ---
 ⭐ Feel free to **star** this repository if you like my portfolio!
