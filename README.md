@@ -1,5 +1,5 @@
 # 📂 My Portfolio  
-This repository contains my portfolio website built using **Bootstrap**. It showcases my projects, skills, and experience.  
+This repository contains my portfolio website. It showcases my projects, skills, and experience.  
 
 ## 🚀 Sections  
 - 🏆 About Me  
